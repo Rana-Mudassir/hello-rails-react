@@ -164,6 +164,6 @@ If you like this project please show support by staring ⭐️.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Rana-Mudassir/hello-rails-react/LICENSE) licensed.
+This project is [MIT](https://github.com/Rana-Mudassir/hello-rails-react/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
